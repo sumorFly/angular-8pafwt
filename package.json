@@ -1,0 +1,1 @@
+{"scripts":{"test":"vitest --environment jsdom --ui"},"stackblitz":{"startCommand":"npm run test"},"dependencies":{"@types/jsdom":"^16.2.14","@vitejs/plugin-vue":"^2.3.3","@vitest/ui":"^0.17.0","@vue/test-utils":"^2.0.2","jsdom":"^20.0.0","typescript":"^4.7.4","vite-plugin-vue-inspector":"1.0.1","vitest":"^0.17.0","vue":"^3.2.37"}}
